@@ -1,22 +1,21 @@
-# 💫 Sobre mim:
-Olá! Eu sou o João Victor, apaixonado por desenvolvimento front-end e sempre buscando novas oportunidades para aprender e crescer na área. Estou focado em encontrar uma posição como Desenvolvedor Junior para aplicar minhas habilidades e continuar evoluindo.
+# 💫 About Me:
+Hello! I'm João Victor, passionate about front-end development and always seeking new opportunities to learn and grow in the field. I'm focused on finding a Junior Developer position to apply my skills and continue evolving.
 
-## 🚀 Objetivos e Interesses:
-- 📚 Continuar me especializando em **React** e **TypeScript**.
+## 🚀 Goals and Interests:
+- 📚 Continue specializing in **React** and **TypeScript**.
 
-## 🌐 Redes sociais:
+## 🌐 Social Media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-victor-carvalho-de-souza) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/0carvalh0) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22921807) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/0Carvalh0) 
 
-# 💻 Tecnologias:
+# 💻 Technologies:
 ## 🌐 Front-end:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## ⚙️ Ferramentas:
+## ⚙️ Tools:
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-<!--## 🛠️ Projetos em Destaque:
-- **[Projeto A](link)**: Breve descrição do projeto.
-- **[Projeto B](link)**: Breve descrição do projeto. -->
+## 🛠️ Featured Projects:
+- **[Portfolio](link)**: My portfolio.
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=0Carvalh0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
