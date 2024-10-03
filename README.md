@@ -15,7 +15,7 @@ Hello! I'm João Victor, passionate about front-end development and always seeki
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## 🛠️ Featured Projects:
-- **[Portfolio](https://joaovictor-eight.vercel.app/)**: My portfolio.
+- **[Portfolio](https://portfoliojoaocarvalho-eight.vercel.app/)**: My portfolio.
 
 # 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=0Carvalh0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
