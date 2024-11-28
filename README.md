@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hello! I'm João Victor, passionate about front-end development and always seeking new opportunities to learn and grow in the field. I'm focused on finding a Junior Developer position to apply my skills and continue evolving.</p>
+<p align="left">Hi there! I'm João Victor, a passionate front-end developer who loves crafting elegant and user-friendly interfaces. With a strong curiosity and a constant drive to learn, I'm always exploring new tools and technologies to enhance my skills.<br><br>I'm currently focused on building innovative projects and gaining experience in the tech industry. My goal is to contribute as a Junior Developer while growing both professionally and personally in a collaborative and dynamic environment.</p>
 
 ###
 
