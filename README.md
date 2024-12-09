@@ -17,8 +17,12 @@ I'm **João Victor**, a passionate **Front-End Developer** dedicated to crafting
   <a href="https://stackoverflow.com/users/22921807" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
-</div>
-
+  <a href="https://portfoliojoaocarvalho-eight.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="25" alt="portfolio logo"  />
+  </a>
+  <a href="mailto:trabalho.joaovictor2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="25" alt="Gmail logo" />
+  </a>
 </div>
 
 ---
@@ -50,8 +54,6 @@ I enjoy solving problems and building innovative projects that make an impact. M
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" title="VSCode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="Windows" title="Windows" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" title="Linux" />
 </div>
 
 ---
