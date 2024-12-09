@@ -20,9 +20,10 @@ I'm **João Victor**, a passionate **Front-End Developer** dedicated to crafting
   <a href="https://portfoliojoaocarvalho-eight.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="25" alt="portfolio logo"  />
   </a>
-  <a href="mailto:trabalho.joaovictor2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="25" alt="Gmail logo" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=trabalho.joaovictor2004@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="25" alt="gmail logo" />
   </a>
+
 </div>
 
 ---
