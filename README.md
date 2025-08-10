@@ -1,67 +1,58 @@
-# ![Devictor Banner](./images/bannerdevictor.png)
+# ![Banner Devictor](./images/bannerdevictor.png)
 
 <div align="center">
 
-### 👋 Welcome to my GitHub!
+## 👋 Olá, bem-vindo(a) ao meu GitHub!
 
-I'm **João Victor**, a passionate **Front-End Developer** dedicated to crafting modern, intuitive, and user-focused web interfaces.
+Sou **João Victor**, desenvolvedor **Front-End** focado em criar interfaces modernas, intuitivas e voltadas para a melhor experiência do usuário.
 
 ---
 
-### 📲 **Contacts**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/devjoaocarvalho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/22921807" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://portfoliojoaocarvalho.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="25" alt="portfolio logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=trabalho.joaovictor2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="25" alt="gmail logo" />
-  </a>
+### 🌐 Conecte-se comigo
+<a href="https://www.linkedin.com/in/devjoaocarvalho/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://portfoliojoaocarvalho.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfólio"/>
+</a>
+<a href="mailto:trabalho.joaovictor2004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
 ---
 
-## 📝 About Me
+## 📝 Sobre Mim
 
-Hello there! I'm João Victor, a motivated **front-end developer** driven by curiosity and a love for technology.  
-I enjoy solving problems and building innovative projects that make an impact. My ultimate goal is to grow as a **Junior Developer** in a collaborative, fast-paced environment.  
+Sou um desenvolvedor em constante evolução, com experiência em **HTML, CSS, JavaScript e React.js**, e conhecimentos complementares em **TailwindCSS, Bootstrap, SASS, Git e TypeScript**.  
+Entusiasta em criar interfaces **responsivas, acessíveis e de alta performance**, e busco aplicar as melhores práticas para garantir qualidade e eficiência nos projetos.
 
-> 🚀 Currently, I'm honing my skills in modern frameworks and exploring advanced web development practices.  
+💡 **Objetivo:** Atuar como **Desenvolvedor Júnior** em um time colaborativo, aplicando e expandindo minhas habilidades para gerar impacto positivo.
 
 ---
 
-## 🛠 **Languages & Tools**
+## 🛠 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" title="Tailwind CSS"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="SASS" title="SASS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="NPM" title="NPM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="50" alt="Yarn" title="Yarn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" title="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" title="React"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="SASS" title="SASS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" title="MySQL"/>
 </div>
 
 ---
 
-## 🔥 **GitHub Stats**
+## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=gotham&locale=pt-br" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&layout=compact&langs_count=6&theme=gotham&locale=pt-br" height="180" alt="Top Languages"/>
 </div>
