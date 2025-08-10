@@ -28,8 +28,6 @@ Sou **João Victor**, desenvolvedor **Front-End** focado em criar interfaces mod
 Sou um desenvolvedor em constante evolução, com experiência em **HTML, CSS, JavaScript e React.js**, e conhecimentos complementares em **TailwindCSS, Bootstrap, SASS, Git e TypeScript**.  
 Entusiasta em criar interfaces **responsivas, acessíveis e de alta performance**, e busco aplicar as melhores práticas para garantir qualidade e eficiência nos projetos.
 
-💡 **Objetivo:** Atuar como **Desenvolvedor Júnior** em um time colaborativo, aplicando e expandindo minhas habilidades para gerar impacto positivo.
-
 ---
 
 ## 🛠 Tecnologias & Ferramentas
