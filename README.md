@@ -1,4 +1,4 @@
-# ![Banner Devictor](./images/bannerdevictor.png)
+# ![Banner Devictor](./image/bannerdevictor.png)
 
 <div align="center">
 
