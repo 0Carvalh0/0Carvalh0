@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=00ACB4&reversal=false)
+
 # ![Banner Devictor](./image/bannerdevictor.png)
 
-# 🧑🏽‍💻 João Victor
+# 🧑🏽‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=1F91F7&vCenter=true&width=435&height=30&lines=Jo%C3%A3o+Victor)](https://git.io/typing-svg)
 
 **`Desenvolvedor Front-End`**
 
@@ -37,7 +39,9 @@ Entusiasta em criar interfaces **responsivas, acessíveis e de alta performance*
 
 ### 📊 Estatísticas
 
-<div style="display:flex; flex-flow: row wrap; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" align="left" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&include_all_commits=true" align="left" height="200" alt="Linguagens mais usadas"/>
+<div style="display:flex; flex-flow: row wrap; justify-content: center; gap: 16px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" align="center" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&include_all_commits=true" align="center" height="150" alt="Linguagens mais usadas"/>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=00ACB4&reversal=false&section=footer)
