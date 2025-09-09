@@ -34,14 +34,15 @@ Entusiasta em criar interfaces **responsivas, acessíveis e de alta performance*
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align="left" width="30px" alt="SASS" title="SASS"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="left" width="30px" alt="Bootstrap" title="Bootstrap"/>
 </div>
+<br>
 
 ---
 
 ### 📊 Estatísticas
 
 <div style="display:flex; flex-flow: row wrap; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" align="center" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&include_all_commits=true" align="center" height="150" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" align="center" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&include_all_commits=true" align="center" height="180" alt="Linguagens mais usadas"/>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=00ACB4&reversal=false&section=footer)
