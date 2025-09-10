@@ -40,9 +40,9 @@ Entusiasta em criar interfaces **responsivas, acessíveis e de alta performance*
 
 ### 📊 Estatísticas
 
-<div style="display:flex; flex-flow: row wrap; justify-content: center; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" align="center" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&include_all_commits=true" align="center" height="180" alt="Linguagens mais usadas"/>
+<div style="display:flex; flex-flow: row wrap; justify-content: center; align-items: stretch; gap: 16px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" style="height: 180px; object-fit: contain;" alt="Estatisticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&include_all_commits=true" style="height: 180px; object-fit: contain;" alt="Linguagens mais usadas"/>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=00ACB4&reversal=false&section=footer)
