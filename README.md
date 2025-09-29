@@ -5,8 +5,8 @@
 <h1 align="center">Olá, eu sou o João Carvalho! 👋</h1>
 <p align="center">
   <em>Desenvolvedor Front-End 👨🏽‍💻 & Estudante de ADS</em><br>
-  <a href="https://portfoliojoaocarvalho.vercel.app/">Portfólio</a> · 
-  <a href="https://www.linkedin.com/in/devjoaocarvalho/">LinkedIn</a>
+  <a href="https://portfoliojoaocarvalho.vercel.app/" target="_blank">Portfólio</a> · 
+  <a href="https://www.linkedin.com/in/devjoaocarvalho/" target="_blank">LinkedIn</a>
 </p>
 
 <p align="center">
