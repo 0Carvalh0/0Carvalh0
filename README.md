@@ -1,48 +1,55 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=00ACB4&reversal=false)
+<p align="center">
+  <img src="./image/bannerdevictor.png" alt="banner com meu nome e profissão" />
+</p>
 
-# ![Banner Devictor](./image/bannerdevictor.png)
+<h1 align="center">Olá, eu sou o João Carvalho! 👋</h1>
+<p align="center">
+  <em>Desenvolvedor Front-End 👨🏽‍💻 & Estudante de ADS</em><br>
+  <a href="https://portfoliojoaocarvalho.vercel.app/">Portfólio</a> · 
+  <a href="https://www.linkedin.com/in/devjoaocarvalho/">LinkedIn</a>
+</p>
 
-# 🧑🏽‍💻 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&pause=1000&color=1F91F7&vCenter=true&width=435&height=30&lines=Jo%C3%A3o+Victor)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0ACB4F&center=true&vCenter=true&lines=Desenvolvedor+Front-End" alt="Typing SVG" />
+</p>
 
-**`Desenvolvedor Front-End`**
+---
 
-Sou um desenvolvedor em constante evolução, com experiência em **HTML, CSS, JavaScript e React.js**, e conhecimentos complementares em **TailwindCSS, Bootstrap, SASS, Git e TypeScript**.  
-Entusiasta em criar interfaces **responsivas, acessíveis e de alta performance**, e busco aplicar as melhores práticas para garantir qualidade e eficiência nos projetos.
+### 💬 Sobre mim
 
-<a href="https://www.linkedin.com/in/devjoaocarvalho/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://portfoliojoaocarvalho.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"/>
-</a>
-<a href="mailto:trabalho.joaovictor2004@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+Desenvolvedor Front-End de São Paulo, apaixonado por criar interfaces de impacto, responsivas e acessíveis. Focado em React e boas práticas de desenvolvimento.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div style="display:flex; flex-flow: row wrap; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" align="left" width="30px" alt="React.js" title="React.js"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" align="left" width="30px" alt="HTML5" title="HTML5"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" width="30px" alt="CSS3" title="CSS3"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="30px" alt="JavaScript" title="JavaScript"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" align="left" width="30px" alt="TypeScript" title="TypeScript"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" align="left" width="30px" alt="Tailwind CSS" title="Tailwind CSS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" width="30px" alt="Git" title="Git"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" align="left" width="30px" alt="SASS" title="SASS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" align="left" width="30px" alt="Bootstrap" title="Bootstrap"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff"/>
 </div>
-<br>
 
 ---
 
-### 📊 Estatísticas
+### 📈 Estatísticas
 
-<div style="display:flex; flex-flow: row wrap; justify-content: center; align-items: stretch; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true" style="height: 180px; object-fit: contain;" alt="Estatisticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0carvalh0&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br&include_all_commits=true" style="height: 180px; object-fit: contain;" alt="Linguagens mais usadas"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0carvalh0&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0carvalh0&layout=compact&theme=tokyonight"/>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=00ACB4&reversal=false&section=footer)
+---
+
+### 📬 Contato
+
+<div align="center">
+  <a href="mailto:trabalho.joaovictor2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/devjoaocarvalho/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="https://portfoliojoaocarvalho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-0ACB4F?style=for-the-badge&logo=vercel&logoColor=fff" alt="Portfólio" /></a>
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=00ACB4&reversal=false&section=footer)
